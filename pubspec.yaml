@@ -1,0 +1,18 @@
+name: finance_english_pro
+description: Offline-first professional English flashcard app for Accounting, Finance and Procurement.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.9.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/cards.json
+    - assets/data/conversation_prompts.json

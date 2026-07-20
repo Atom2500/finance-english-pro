@@ -1,0 +1,17 @@
+FINANCE ENGLISH PRO – START
+
+Die App enthält 1029 Lernkarten und 15 Gesprächsprompts.
+
+WICHTIG FÜR DAS IPHONE:
+Die ZIP-Datei nicht einfach als HTML-Datei in der Dateien-App öffnen. Flutter muss die App zuerst bauen.
+
+Kostenloser Weg:
+1. GitHub-Konto erstellen.
+2. Neues öffentliches Repository erstellen.
+3. Alle Dateien aus diesem Ordner hochladen.
+4. Settings > Pages > Source: GitHub Actions.
+5. Warten, bis der Workflow fertig ist.
+6. Die GitHub-Pages-Adresse in Safari öffnen.
+7. Teilen > Zum Home-Bildschirm.
+
+Ausführliche Anleitung: README.md

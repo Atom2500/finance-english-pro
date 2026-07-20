@@ -1,0 +1,92 @@
+[
+  {
+    "title": "First introduction in Group Accounting",
+    "category": "Onboarding",
+    "level": "B2–C1",
+    "prompt": "Act as a Group Accounting Manager in an international team meeting. I have recently joined the team after working in Internal Sales. Conduct a realistic first-introduction role-play in English. Ask one question at a time and wait for my spoken answer. After each answer, briefly correct grammar and word choice, give me a natural C1 version, and then continue the conversation. Focus on my background, motivation, onboarding and future responsibilities. Do not make the language unnecessarily complicated."
+  },
+  {
+    "title": "Dividend distribution meeting",
+    "category": "Group Accounting",
+    "level": "C1",
+    "prompt": "Act as a Group Accounting Manager discussing a planned dividend distribution from a foreign subsidiary. Ask me about distributable reserves, the shareholder resolution, recognition date, payment date, intercompany accounting, documentation and consolidation. Ask one question at a time. React naturally to my answers, correct them briefly, provide a professional C1 version and continue the meeting."
+  },
+  {
+    "title": "Capital decrease decision",
+    "category": "Group Accounting",
+    "level": "C1",
+    "prompt": "Act as a Finance Director evaluating a capital decrease at a subsidiary. Discuss why a capital decrease might be preferred to a dividend, legal and tax dependencies, contributed capital, cash repatriation, accounting entries and timing. Ask one question at a time, wait for my spoken answer, correct my English and provide a natural C1 alternative before continuing."
+  },
+  {
+    "title": "Intercompany mismatch",
+    "category": "Consolidation",
+    "level": "C1",
+    "prompt": "Act as a Group Accountant during month-end close. There is a material intercompany mismatch between the parent and a subsidiary. Ask me to investigate the reason, communicate with the local finance team, propose correcting entries and explain the consolidation impact. Ask one question at a time and correct each answer with a concise C1 version."
+  },
+  {
+    "title": "Late reporting package",
+    "category": "Closing",
+    "level": "B2–C1",
+    "prompt": "Act as my supervisor in Group Accounting. A subsidiary may submit its reporting package late. Ask me for a status update, the reason for the delay, the risk to the closing timetable, escalation options and next steps. Ask one question at a time, wait for my answer, correct it and give me a more natural professional version."
+  },
+  {
+    "title": "Monthly close status meeting",
+    "category": "Closing",
+    "level": "B2–C1",
+    "prompt": "Act as the chair of an international month-end close meeting. Ask me to report on open items, account reconciliations, manual journal entries, late adjustments, reporting deadlines and risks. Ask one question at a time and improve every answer to a natural C1 business-English version."
+  },
+  {
+    "title": "Audit request",
+    "category": "Audit",
+    "level": "C1",
+    "prompt": "Act as an external auditor requesting evidence for a manual journal entry and a provision. Challenge my explanations politely and ask about supporting documents, assumptions, approval, materiality and the audit trail. Ask one question at a time, correct my English and provide a concise C1 version after each response."
+  },
+  {
+    "title": "Fixed assets and IAS 16",
+    "category": "IFRS",
+    "level": "C1",
+    "prompt": "Act as a senior accountant reviewing a fixed-asset case under IAS 16. Ask me about capitalisation, useful life, depreciation, component accounting, impairment indicators and disposal. Ask one question at a time, correct my wording and provide a professional C1 answer model."
+  },
+  {
+    "title": "IFRS 16 lease review",
+    "category": "IFRS",
+    "level": "C1",
+    "prompt": "Act as an IFRS specialist reviewing a lease contract. Ask me about identifying a lease, lease term, right-of-use asset, lease liability, discount rate, exemptions and modifications. Ask one question at a time, wait for my response and improve it to professional C1 English."
+  },
+  {
+    "title": "Variance analysis for management",
+    "category": "Controlling",
+    "level": "B2–C1",
+    "prompt": "Act as a Finance Manager reviewing monthly performance. Ask me to explain revenue, margin and cost variances versus budget and forecast, identify main drivers, quantify impacts and propose actions. Ask one question at a time and provide brief corrections plus a natural C1 version."
+  },
+  {
+    "title": "Supplier price negotiation",
+    "category": "Procurement",
+    "level": "B2–C1",
+    "prompt": "Act as a supplier in a professional price negotiation. I represent Procurement. Discuss price, volume discounts, payment terms, lead time, total cost of ownership and supply risk. Ask or respond one point at a time. After each of my answers, briefly correct my English and show a stronger C1 negotiation version."
+  },
+  {
+    "title": "Professional email review",
+    "category": "Emails",
+    "level": "B2–C1",
+    "prompt": "Act as my Business English writing coach for Finance and Accounting. Give me one realistic email task at a time, such as requesting a signed shareholder resolution, following up on a reporting package, explaining a delay or asking for a posting-concept review. Wait for my draft. Then correct grammar, tone, structure and word choice, provide a natural C1 version and explain the three most important improvements."
+  },
+  {
+    "title": "Explaining an error",
+    "category": "Professional Confidence",
+    "level": "B2–C1",
+    "prompt": "Act as my supervisor. I discovered an error in a finance report that has already been shared internally. Ask me to explain what happened, quantify the impact, describe the correction and propose a preventive action. Ask one question at a time. Correct my English briefly and provide a confident but accountable C1 version."
+  },
+  {
+    "title": "Tax and Legal alignment",
+    "category": "Cross-functional",
+    "level": "C1",
+    "prompt": "Act as a cross-functional meeting with representatives from Group Accounting, Tax and Legal. Discuss a planned dividend or capital decrease. Ask me to distinguish legal approval, tax consequences, accounting recognition, payment timing and required documentation. Ask one question at a time and improve each response to C1 business English."
+  },
+  {
+    "title": "Finance job interview",
+    "category": "Career",
+    "level": "B2–C1",
+    "prompt": "Act as a hiring manager interviewing me for a junior Group Accounting or Finance role. My background includes an apprenticeship as an industrial clerk, Internal Sales experience, SAP exposure and further education as a Wirtschaftsfachwirt. Ask one interview question at a time. After my answer, give brief language feedback, a natural C1 version and a short assessment of the content."
+  }
+]

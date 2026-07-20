@@ -1,0 +1,23 @@
+{
+  "name": "Finance English Pro",
+  "short_name": "Finance English",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#08111F",
+  "theme_color": "#08111F",
+  "description": "Professional English flashcards for Accounting, Finance and Procurement.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

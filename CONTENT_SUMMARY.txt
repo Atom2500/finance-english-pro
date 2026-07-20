@@ -1,0 +1,21 @@
+Total learning cards: 1029
+Conversation prompts: 15
+Base technical concepts: 225
+
+Categories:
+- Accounting Communication: 54
+- Accounting Foundations: 120
+- Audit Communication: 15
+- Closing & Reporting: 105
+- Emails: 57
+- Finance & Controlling: 90
+- Finance Communication: 15
+- Group Accounting & Consolidation: 135
+- IFRS, Assets & Leases: 105
+- Meetings: 75
+- Onboarding: 48
+- Procurement & Supply Chain: 60
+- Procurement Communication: 24
+- Professional Confidence: 39
+- Status Updates: 27
+- Treasury, Tax, Audit & Controls: 60
